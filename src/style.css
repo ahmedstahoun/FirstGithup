@@ -3,4 +3,6 @@ body{
 }
 h1 {
     display:inline;
+    color:green;
+    font-size: 40px;   
 }
